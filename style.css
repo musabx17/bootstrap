@@ -1,0 +1,30 @@
+/* Custom Styles */
+#hero {
+    background-image: url('assets/img/smartwatch.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    border-radius: 10px 10px 0 0;
+  }
+    .navbar {
+    z-index: 1000;
+  }
+    footer {
+    background-color: #343a40;
+  }
+  
+  #contact {
+    background-color: #212529;
+  }
+  
